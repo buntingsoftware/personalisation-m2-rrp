@@ -7,6 +7,7 @@ From the moment you plug it into your site, Bunting learns about your visitors a
 ## Installation
 
 This module uses composer for installation, simply add "bunting/personalisation-m2" to the `requires` section of your composer.json file and run `composer install`.
+(The package will be downloaded from https://packagist.org/packages/bunting/personalisation-m2)
 
 After creating an account with Bunting through the module (or logging in), the cache must be for the Javascript to be injected in to your website.
 
