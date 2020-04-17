@@ -7,7 +7,7 @@ From the moment you plug it into your site, Bunting learns about your visitors a
 ## Installation
 
 * Go to your linux box that has your m2 installation on and remove/uninstall any previous Bunting packages.
-* Run `composer require bunting/personalisation-m2` (Notes 1 & 2)
+* Run `composer require bunting/personalisation-m2-rrp` (Notes 1 & 2)
 * Run `composer install`
 * Once done, flush your m2 caches then visit System > Web installation > Modules > Enable the Bunting plugins.   
 
@@ -18,5 +18,5 @@ From the moment you plug it into your site, Bunting learns about your visitors a
 
 * Officially supports PHP 5.5+ and PHP 7.x, with support for Magento version 2.0+.
 * Main repo may be found @ https://bitbucket.org/bunting-software/bunting-magento-2-core
-* Package is distributed @ https://packagist.org/packages/bunting/personalisation-m2
+* Package is distributed @ https://packagist.org/packages/bunting/personalisation-m2-rrp
 
