@@ -11,13 +11,12 @@ From the moment you plug it into your site, Bunting learns about your visitors a
 * Run `composer install`
 * Once done, flush your m2 caches then visit System > Web installation > Modules > Enable the Bunting plugins.   
 
-Bunting Core (and all submodules) officially support PHP 5.5+ and PHP 7.x, with support for Magento version 2.0+.
-(The package will be downloaded from https://packagist.org/packages/bunting/personalisation-m2)
-
-
 1. This will take a few minutes and look like it's hanged, leave it a while!).
 2. If you're on Docker (for instance if you installed [this](https://github.com/buntingsoftware/docker-magento2]) then run `docker exec -it docker-magento2_web_1 bash  YOUR_COMMAND` to execute inside the container.
 
 ## Support
 
-Module version support may be found [on the Bunting Core package](https://bitbucket.org/bunting-software/bunting-magento-2-core)
+* Officially supports PHP 5.5+ and PHP 7.x, with support for Magento version 2.0+.
+* Main repo may be found @ https://bitbucket.org/bunting-software/bunting-magento-2-core
+* Package is distributed @ https://packagist.org/packages/bunting/personalisation-m2
+
